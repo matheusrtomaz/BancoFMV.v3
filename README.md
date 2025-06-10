@@ -13,7 +13,7 @@ Tela de Login (LoginActivity):
 
 Campos para E-mail/Usuário e Senha.
 
-Lógica de login simulada (credenciais fixas para demonstração: teste@email.com / 123456).
+Lógica de login simulada (credenciais fixas para demonstração: testemobile@email.com / 123456).
 
 Link para a tela de Cadastro.
 
